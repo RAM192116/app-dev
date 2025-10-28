@@ -3,7 +3,7 @@
 **Black Clover Sword of the Wizard King** is an anime movie based on the hit series **Black Clover**, created by **Yūki Tabata**.  
 The movie was released in **2023** and produced by **Studio Pierrot**.  
 It continues the story of **Asta**, a boy born without magic, who dreams of becoming the **Wizard King** — the strongest mage in the Clover Kingdom
-## 👑 Main Characters
+## 👑 Main Characters.
 
 | Character | Role | Description |
 |------------|------|-------------|
