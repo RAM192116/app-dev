@@ -7,7 +7,7 @@ It continues the story of **Asta**, a boy born without magic, who dreams of beco
 
 | Character | Role | Description |
 |------------|------|-------------|
-| **Asta** | Magic Knight | A boy born without magic who wields *anti-magic* swords. |
+| **Asta** | Magic Knight | A boy born without magic who wields **anti-magic** swords. |
 | **Yuno Grinberryall** | Rival & Friend | A genius mage with wind and star magic. |
 | **Conrad Leto** | Former Wizard King | The main antagonist with a dream of equality through destruction. |
 | **Julius Novachrono** | Current Wizard King | Master of time magic and protector of the kingdom. |
